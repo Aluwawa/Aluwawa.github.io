@@ -1,0 +1,63 @@
+body {
+    background-color: #f9dbbd;
+    /*border-color: black;
+    border: dashed;
+    border-width: 1.5px; */
+}
+/*.navbar{
+background-color: black;
+
+}*/
+.navbar a {
+text-align: center;
+font-size: 20px;
+font-weight: 200;
+padding: 20px;;
+font-family: Georgia;
+color:#450920;
+}
+.navbar a:hover{
+background-color:#450920;
+color: #f9dbbd;
+}
+.navbar a.active{
+background-color: #ffa5ab;
+color: #450920;
+}
+.title{
+    text-align:center;
+    font-size: 35px;
+    color:#450920;
+}
+.contactform{
+    margin: 0%;
+    padding: 10px;
+}
+input,text,label{
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    color: #450920;
+    font-size: 25px;
+    font-family: Georgia;
+}
+label{
+    text-align: center;
+}
+input{
+    border: 1px solid #ffa5ab;
+}
+.maintext {
+    font-size: 25px;
+    font-family:Georgia;
+    color:#450920;
+    text-align: center;
+
+}
+.endnote{
+    font-size: 15px;
+    color:#450920;
+    font-weight:bold;
+    font-style: italic;
+    text-align:center;
+}
